@@ -1,1 +1,1 @@
-![image](https://github.com/EldarKhismatov/Docker/assets/109541884/a156a69e-9c39-4054-baf8-edba5c638009)
+![image](https://github.com/EldarKhismatov/Docker/assets/109541884/25d3bb7f-a654-4247-b7ad-f67d2ac8ebf9)
